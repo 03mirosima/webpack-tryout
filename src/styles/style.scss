@@ -1,0 +1,12 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+@import './deneme.scss';
+
+$mainColor: orange;
+
+body {
+  background-color: $mainColor;
+  color: yellow;
+  display: flex;
+  justify-content: center;
+ 
+}
