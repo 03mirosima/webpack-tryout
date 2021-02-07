@@ -1,5 +1,4 @@
 @import "node_modules/bootstrap/scss/bootstrap";
-@import './deneme.scss';
 
 $mainColor: orange;
 
@@ -8,5 +7,7 @@ body {
   color: yellow;
   display: flex;
   justify-content: center;
- 
+  h1 {
+    color: blue;
+  }
 }

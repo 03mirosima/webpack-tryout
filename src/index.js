@@ -1,4 +1,4 @@
-import mesaj from './js/mesaj';
+import message from './components/message';
 import './styles/style.scss';
 
-console.log(mesaj);
+console.log(message);

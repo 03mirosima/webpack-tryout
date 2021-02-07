@@ -1,5 +1,5 @@
 {
-  "name": "deneme",
+  "name": "webpack-tryout",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,17 +7,9 @@
     "build": "webpack",
     "start": "webpack serve"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yucesoftware/b4b-red-html.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yucesoftware/b4b-red-html/issues"
-  },
-  "homepage": "https://github.com/yucesoftware/b4b-red-html#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
@@ -40,7 +32,6 @@
     "@babel/polyfill": "^7.12.1",
     "bootstrap": "^4.6.0",
     "clean-webpack-plugin": "^3.0.0",
-    "lerna": "^3.22.1",
     "webpack-manifest-plugin": "^3.0.0"
   }
 }
